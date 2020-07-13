@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\commands",
+    "\\commands\\common",
+    "\\commands\\management",
+    "\\events",
+    "\\modules"
+  ],
+  "SelectedNode": "\\events\\message.js",
+  "PreviewInSolutionExplorer": false
+}
